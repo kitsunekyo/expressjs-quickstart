@@ -164,7 +164,7 @@ We can now run `npm start` to start the server and try again ⇒ voila.
 
 Anytime we change index.js, it will restart the server for us.
 
-![readme/Untitled.png](readme/Untitled.png)
+![readme/screenshot.png](readme/screenshot.png)
 
 -   start is a reserved name. usually you have to type `npm run [scriptName]`
 
